@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use the Burmese Handwritten Sentence Dataset (BHSD), please cite it using the information below."
+type: dataset
+title: "Burmese Handwritten Sentence Dataset (BHSD)"
+authors:
+  - family-names: "Oo"
+    given-names: "Ah Maung"
+  - name: "DatarrX"
+version: "1.0.0"
+date-released: 2026-08-29
+url: "https://huggingface.co/datasets/Drew2456/Burmese-Handwritten-Sentence-Dataset"
+license: CC-BY-4.0
+abstract: >-
+  An open sentence-level Burmese handwriting dataset containing 2,850 images
+  from 54 unique volunteer writers. The release includes 2,700 core images
+  across natural, rare, and nonce categories, together with 150 supplementary
+  coverage images contributed by 10 members of the original writer group.
+keywords:
+  - Burmese
+  - Myanmar script
+  - handwriting recognition
+  - optical character recognition
+  - handwritten text recognition
+  - low-resource language
+
