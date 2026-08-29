@@ -1,0 +1,10 @@
+# Dataset loading and Hugging Face access
+datasets
+huggingface_hub
+
+# Metadata processing
+pandas
+openpyxl
+
+# Image loading and processing
+Pillow
