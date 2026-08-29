@@ -1,7 +1,5 @@
 # Burmese Handwritten Sentence Dataset (BHSD)
 
-![BHSD banner](BHSD_Banner.png)
-
 The **Burmese Handwritten Sentence Dataset (BHSD)** is an open sentence-level handwriting dataset for Burmese optical character recognition (OCR), handwritten text recognition (HTR), error analysis, and research on low-resource scripts.
 
 The complete dataset is hosted on Hugging Face:
