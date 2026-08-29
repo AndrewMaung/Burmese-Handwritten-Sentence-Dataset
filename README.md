@@ -36,22 +36,6 @@ Core image filenames use forms such as `NAT01.png`, `RARE01.png`, and `NONCE01.p
 
 This GitHub repository is the companion repository for BHSD. It contains documentation, citation information, scripts, notebooks, metadata examples, and a small number of sample images. The complete image collection is maintained on Hugging Face rather than duplicated here.
 
-Suggested structure:
-
-```text
-BHSD/
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── scripts/
-├── notebooks/
-├── metadata/
-│   └── metadata_sample.csv
-└── samples/
-    └── example images
-```
-
 ## Metadata
 
 The complete Hugging Face release includes a `metadata.csv` file with one row per image:
